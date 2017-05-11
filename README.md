@@ -4,7 +4,7 @@
 
 ### Description
 
-My first server using Ruby and Sinatra. 
+My first web server using Ruby and Sinatra. 
 
 ### Installation 
 
